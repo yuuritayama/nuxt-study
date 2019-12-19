@@ -1,0 +1,9 @@
+{
+    "apiKey": "AIzaSyCiMZqOk_GgWdTEnLErrHloMtuX0Q9PxkE",
+    "authDomain": "hello-firebase-tayama.firebaseapp.com",
+    "databaseURL": "https://hello-firebase-tayama.firebaseio.com",
+    "projectId": "hello-firebase-tayama",
+    "storageBucket": "hello-firebase-tayama.appspot.com",
+    "messagingSenderId": "895727356515",
+    "appId": "1:895727356515:web:ef6d8f3736953f45894656"
+}

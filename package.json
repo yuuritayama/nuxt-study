@@ -1,0 +1,11 @@
+{
+  "name": "nuxt-test",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "firebase": "^7.5.0",
+    "nuxt": "^2.10.2",
+    "vuexfire": "^3.2.0"
+  }
+}
